@@ -22,5 +22,9 @@ private ReplaySystem replaySystem;
 			
 	}
 
+	public void PlayBackButton(){
+		recording=false; replaySystem.PlayBack();
+	}
+
 
 }

@@ -1,14 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\RollerBall\Scripts\ReplaySystem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Repos\Test01\.gitignore">
     <Files>
-      <File FileName="Assets\Player.cs" Line="4" Column="1" />
+      <File FileName="Assets\Player.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Characters\RollerBall\Scripts\ReplaySystem.cs" Line="20" Column="4" />
-      <File FileName="..\..\Repos\Test01\.gitignore" Line="36" Column="15" />
-      <File FileName="Assets\GameManager.cs" Line="20" Column="5" />
+      <File FileName="..\..\Repos\Test01\.gitignore" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="25" Column="2" />
+      <File FileName="Assets\ReplaySystem.cs" Line="23" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
